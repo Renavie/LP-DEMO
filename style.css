@@ -80,17 +80,7 @@ body {
     background-color: #f8f8f8;
     text-align: center;
   }
-  
-  .service .section-title {
-    text-align: left;
-    margin-left: 100px; /* 左に寄せる量は好みに合わせてOK */
-  }
-  
-  
-  .section-title {
-    font-size: 32px;
-    margin-bottom: 40px;
-  }
+
   
   .service-items {
     display: flex;
@@ -223,5 +213,12 @@ body {
     text-align: center;
     padding: 20px 0;
     font-size: 14px;
+  }
+  
+  .section-title {
+    font-size: 32px;
+    margin: 0 auto 40px !important;
+    text-align: center !important;
+    display: block !important;
   }
   
