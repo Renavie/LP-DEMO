@@ -81,6 +81,12 @@ body {
     text-align: center;
   }
   
+  .service .section-title {
+    text-align: left;
+    margin-left: 100px; /* 左に寄せる量は好みに合わせてOK */
+  }
+  
+  
   .section-title {
     font-size: 32px;
     margin-bottom: 40px;
